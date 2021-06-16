@@ -1,0 +1,21 @@
+{
+  "name": "Salma App",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "@remobile/react-native-toast": "^1.0.4",
+    "iconv-lite": "^0.4.13",
+    "react": "^15.3.0",
+    "react-icons": "^4.2.0",
+    "react-native": "^0.32.0",
+    "react-native-bluetooth-hc05": "^0.2.0",
+    "stream": "0.0.2"
+  },
+  "engines": {
+    "node": "^6.5.0",
+    "npm": "^3.10.3"
+  }
+}
